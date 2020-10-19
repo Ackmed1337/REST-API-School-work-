@@ -1,0 +1,6 @@
+{
+    "connectionString": "mongodb://localhost:27017/signup",
+    "username": "prisma",
+    "password": "prisma",
+    "port": 3310
+}
